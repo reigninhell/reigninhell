@@ -166,7 +166,8 @@
             "😘",
             "❤️"
           ]
-        },{
+        },
+		{
           "image_file": "https://raw.githubusercontent.com/reigninhell/reigninhell/main/1/p26.webp",
           "emojis": [
             "🥰",
@@ -181,7 +182,7 @@
             "❤️"
           ]
         }
-      ]
+	]
     },
     {
       "identifier": "2",
